@@ -1,0 +1,193 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #06283D;
+  font-size: 5.625rem;
+  line-height: 3;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #06283D;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #4C0033;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+img {
+  width: 20%;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.pskills {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-container {
+  background: #FFF5E4;
+  padding-top: relative;
+  padding-top: 50px;
+  margin-bottom: 0px;
+}
+
+.middle-container {
+  background-color: #E8F9FD;
+  margin-top: 0px;
+  padding-top: 50px;
+  margin-bottom: 0px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+
+.brian2 {
+  border-radius: 100%;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: auto;
+  margin-top: 10px auto 10px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-row3{
+  width: 50%;
+  margin: auto;
+  margin-top: 10px auto 10px auto;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.skill-row4{
+  width: 50%;
+  margin: auto;
+  margin-top: 10px auto 10px auto;
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.comp-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.german-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.hotel-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cert-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #06283D;
+}
+
+.imgfooter{
+  width: 40px;
+}
